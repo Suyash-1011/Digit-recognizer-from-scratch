@@ -1,1 +1,2 @@
 # Digit-recognizer-from-scratch
+This project is dedicated to exploring the fundamentals of neural networks and their inner working, with a specific focus on digit recognition. It has been meticulously crafted from the ground up, deliberately avoiding the use of any external libraries. This approach ensures a deep, hands-on understanding of the underlying concepts and mechanisms that drive neural networks, allowing for a thorough comprehension of how they operate at a fundamental level.
